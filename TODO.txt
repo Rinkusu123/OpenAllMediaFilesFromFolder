@@ -1,0 +1,5 @@
+; PRIORITIES -------------------------------------
+
+-- Test ini parameter
+
+-- Replace extesions processing with ini parameter module
